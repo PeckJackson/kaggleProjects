@@ -33,14 +33,14 @@ BYU,31,6,9,139
 Davidson,32,68,8,181
 Maryland,33,184,56,36
 Cincinnati,34,341,76,18
-Stephen F. Austin,35,75,19,103
+SF Austin,35,75,19,103
 Georgia,36,201,74,28
 Oklahoma St.,37,259,49,58
-North Carolina St.,38,189,30,89
+NC State,38,189,30,89
 Boise St.,39,232,48,64
 Dayton,40,214,73,38
 UCLA,41,111,45,76
-St. John's,42,61,62,51
+St John's,42,61,62,51
 LSU,43,13,75,37
 Mississippi,44,94,22,125
 Florida,45,273,142,11
@@ -64,16 +64,16 @@ Syracuse,62,85,147,24
 Valparaiso,63,275,129,31
 Old Dominion,64,338,108,49
 Illinois,65,151,122,39
-Saint Mary's,66,281,55,99
+St Mary's CA,66,281,55,99
 South Carolina,67,192,149,27
 Colorado St.,68,73,52,110
-Green Bay,69,150,164,22
+WI Green Bay,69,150,164,22
 Arizona St.,70,112,69,90
 Georgia St.,71,258,58,106
 Tulsa,72,215,207,14
 Murray St.,73,82,17,203
 Yale,74,289,112,62
-George Washington,75,307,103,74
+G Washington,75,307,103,74
 Louisiana Tech,76,50,114,66
 Michigan,77,340,63,117
 Harvard,78,317,170,34
@@ -82,7 +82,7 @@ Pittsburgh,80,327,23,218
 Kansas St.,81,283,144,59
 Creighton,82,274,59,147
 Penn St.,83,117,167,52
-Central Michigan,84,218,26,227
+C Michigan,84,218,26,227
 Memphis,85,88,141,70
 Clemson,86,293,181,46
 Toledo,87,57,34,213
@@ -103,16 +103,16 @@ La Salle,101,177,250,21
 Wyoming,102,344,175,67
 Florida St.,103,95,163,79
 Seton Hall,104,104,87,143
-South Dakota St.,105,108,111,123
+S Dakota St,105,108,111,123
 Pepperdine,106,243,235,35
-St. Bonaventure,107,169,154,91
+St Bonaventure,107,169,154,91
 Iona,108,17,39,233
-North Carolina Central,109,342,198,61
+NC Central,109,342,198,61
 UC Santa Barbara,110,279,80,156
 Marquette,111,200,178,77
 Boston College,112,240,99,146
-Kent St.,113,309,107,137
-Eastern Kentucky,114,246,119,122
+Kent,113,309,107,137
+E Kentucky,114,246,119,122
 Vermont,115,216,203,65
 California,116,106,180,83
 Oregon St.,117,324,276,17
@@ -127,30 +127,30 @@ Portland,125,176,71,198
 Wake Forest,126,27,124,141
 North Florida,127,60,98,178
 Stony Brook,128,197,228,75
-Louisiana Lafayette,129,12,135,140
+Lafayette,129,12,135,140
 William & Mary,130,202,32,299
-Albany,131,320,117,155
+SUNY Albany,131,320,117,155
 Nebraska,132,245,283,29
 Evansville,133,114,162,121
-Eastern Michigan,134,107,220,85
+E Michigan,134,107,220,85
 Massachusetts,135,49,128,150
-Eastern Washington,136,24,46,279
+E Washington,136,24,46,279
 Long Beach St.,137,139,195,100
-Western Kentucky,138,86,159,133
+WKU,138,86,159,133
 High Point,139,286,86,207
-Western Michigan,140,163,84,209
+W Michigan,140,163,84,209
 New Mexico,141,285,242,73
 Auburn,142,34,138,154
-Middle Tennessee,143,314,208,96
-Loyola Chicago,144,333,145,151
+MTSU,143,314,208,96
+Loyola-Chicago,144,333,145,151
 Manhattan,145,30,196,109
 San Francisco,146,116,146,153
-Georgia Southern,147,260,260,60
-Coastal Carolina,148,190,136,164
+Ga Southern,147,260,260,60
+Coastal Car,148,190,136,164
 Belmont,149,63,64,259
 Princeton,150,142,93,215
-North Dakota St.,151,321,194,124
-St. Francis NY,152,195,190,128
+N Dakota St,151,321,194,124
+St Francis NY,152,195,190,128
 Charlotte,153,53,66,265
 USC,154,25,245,86
 Oakland,155,83,54,288
@@ -159,90 +159,90 @@ Cal Poly,157,346,212,126
 Chattanooga,158,155,140,185
 Rider,159,168,238,98
 Dartmouth,160,247,219,127
-Saint Joseph's,161,194,254,84
+St Joseph's PA,161,194,254,84
 Montana,162,299,133,194
 DePaul,163,69,110,224
 Morehead St.,164,105,176,157
 UNC Wilmington,165,43,237,108
 Winthrop,166,110,148,193
-Northern Illinois,167,269,185,161
+N Illinois,167,269,185,161
 NJIT,168,97,182,165
 Mississippi St.,169,193,253,97
 Columbia,170,331,100,261
-IPFW,171,182,101,264
+PFW,171,182,101,264
 Indiana St.,172,48,226,144
 Robert Morris,173,131,191,169
-Louisiana Monroe,174,325,295,71
+ULM,174,325,295,71
 New Hampshire,175,210,246,119
 Colgate,176,323,81,284
-Tennessee Martin,177,312,85,281
-USC Upstate,178,242,166,195
-Florida Gulf Coast,179,186,229,145
+TN Martin,177,312,85,281
+SC Upstate,178,242,166,195
+FL Gulf Coast,179,186,229,145
 Quinnipiac,180,59,221,158
 Mercer,181,337,173,197
 Radford,182,172,118,249
-Monmouth,183,203,248,131
+Monmouth NJ,183,203,248,131
 Canisius,184,265,231,148
-American,185,350,189,184
+American Univ,185,350,189,184
 Detroit,186,33,184,190
-Charleston Southern,187,126,102,278
+Charleston So,187,126,102,278
 Virginia Tech,188,225,126,244
 Santa Clara,189,305,137,236
 Northern Arizona,190,179,218,173
 Washington St.,191,54,72,315
-Saint Peter's,192,332,263,118
+St Peter's,192,332,263,118
 Fresno St.,193,133,206,182
-Maryland Eastern Shore,194,140,139,243
+MD E Shore,194,140,139,243
 Lafayette,195,158,40,338
 Miami OH,196,147,201,188
 Norfolk St.,197,156,160,230
-Sacramento St.,198,295,78,310
+CS Sacramento,198,295,78,310
 UT Arlington,199,8,187,206
-Milwaukee,200,148,193,199
+WI Milwaukee,200,148,193,199
 Duquesne,201,52,70,322
 Bucknell,202,171,125,269
 Air Force,203,304,88,308
 Lehigh,204,79,261,132
 Rice,205,282,211,191
-UTSA,206,113,116,282
-Texas Southern,207,221,177,220
+UT San Antonio,206,113,116,282
+TX Southern,207,221,177,220
 James Madison,208,185,153,246
 Cornell,209,170,311,80
 Missouri,210,280,243,163
 Fordham,211,124,217,196
 Gardner Webb,212,38,105,302
-Northwestern St.,213,4,31,348
+Northwestern LA,213,4,31,348
 Incarnate Word,214,56,77,319
 Houston,215,209,232,177
 Oral Roberts,216,141,158,252
-Texas A&M Corpus Chris,217,276,236,174
+TAM C. Christi,217,276,236,174
 George Mason,218,183,199,214
 Rutgers,219,127,286,120
 East Carolina,220,308,171,256
-St. Francis PA,221,263,262,159
+St Francis PA,221,263,262,159
 Denver,222,351,131,296
 UC Riverside,223,129,294,129
-Mount St. Mary's,224,271,280,136
+Mt St Mary's,224,271,280,136
 South Dakota,225,122,188,242
 Ohio,226,70,174,266
-East Tennessee St.,227,35,223,223
-Eastern Illinois,228,277,255,176
-Arkansas Little Rock,229,175,155,287
+ETSU,227,35,223,223
+E Illinois,228,277,255,176
+Ark Little Rock,229,175,155,287
 Tulane,230,254,259,175
 Sacred Heart,231,23,169,276
-Northern Kentucky,232,219,151,300
+N Kentucky,232,219,151,300
 Idaho,233,47,109,325
-Southern Illinois,234,270,291,149
-Western Carolina,235,109,239,217
-Southeast Missouri St.,236,91,192,268
+S Illinois,234,270,291,149
+W Carolina,235,109,239,217
+SE Missouri St,236,91,192,268
 Pacific,237,306,214,255
 Bryant,238,256,156,305
 Texas St.,239,313,332,72
 UNC Asheville,240,29,205,267
 North Texas,241,119,265,189
-Boston University,242,164,134,320
+Boston Univ,242,164,134,320
 Holy Cross,243,217,225,250
-SIU Edwardsville,244,76,288,167
+SIUE,244,76,288,167
 Lamar,245,89,247,221
 Delaware St.,246,65,168,304
 Delaware,247,118,227,260
@@ -251,13 +251,13 @@ Wright St.,249,241,287,179
 Hampton,250,16,302,170
 Howard,251,262,325,104
 Tennessee Tech,252,81,165,317
-Nebraska Omaha,253,3,204,290
+NE Omaha,253,3,204,290
 Elon,254,31,275,204
 Portland St.,255,101,200,295
 Brown,256,36,264,222
-Cal St. Bakersfield,257,326,252,237
+CS Bakersfield,257,326,252,237
 Alabama St.,258,51,296,183
-Northern Colorado,259,248,65,350
+N Colorado,259,248,65,350
 Drake,260,345,127,333
 Ball St.,261,230,251,245
 Army,262,11,267,226
@@ -266,50 +266,50 @@ Marshall,264,7,313,168
 Towson,265,328,241,271
 Missouri St.,266,301,290,202
 Navy,267,318,269,229
-FIU,268,145,312,172
+Florida Intl,268,145,312,172
 Weber St.,269,255,258,241
 Appalachian St.,270,121,266,235
 Grand Canyon,271,165,106,342
-Southern,272,149,320,135
+Southern Univ,272,149,320,135
 Nevada,273,188,298,200
-Cal St. Northridge,274,138,244,273
-Illinois Chicago,275,167,215,307
+CS Northridge,274,138,244,273
+IL Chicago,275,167,215,307
 UNC Greensboro,276,115,257,257
 Siena,277,98,150,334
 Bradley,278,291,336,105
-Loyola Marymount,279,272,202,318
+Loy Marymount,279,272,202,318
 UCF,280,173,213,316
 Youngstown St.,281,42,132,339
 McNeese St.,282,264,222,312
-College of Charleston,283,319,308,192
+Col Charleston,283,319,308,192
 LIU Brooklyn,284,37,305,208
 Troy,285,152,256,275
 Samford,286,74,209,321
 South Florida,287,206,273,258
-UMKC,288,237,284,247
+Missouri KC,288,237,284,247
 Penn,289,253,289,240
 Lipscomb,290,28,233,311
 IUPUI,291,223,329,152
 Niagara,292,161,234,313
 Hartford,293,229,297,239
-Saint Louis,294,249,316,187
+St Louis,294,249,316,187
 Arkansas St.,295,90,307,225
-Florida Atlantic,296,199,268,291
+FL Atlantic,296,199,268,291
 VMI,297,1,293,262
 Campbell,298,315,279,274
 Fairfield,299,310,315,201
-Cal St. Fullerton,300,99,272,289
+CS Fullerton,300,99,272,289
 Wagner,301,45,277,285
 South Alabama,302,22,230,328
-Prairie View A&M,303,19,285,277
+Prairie View,303,19,285,277
 New Orleans,304,40,278,286
 Furman,305,288,270,303
-Southeastern Louisiana,306,77,310,251
-Houston Baptist,307,67,210,337
+SE Louisiana,306,77,310,251
+Houston Bap,307,67,210,337
 Marist,308,134,314,231
 Southern Utah,309,39,271,309
 Jacksonville St.,310,224,317,228
-UMass Lowell,311,191,326,212
+MA Lowell,311,191,326,212
 Loyola MD,312,268,334,186
 Southern Miss,313,287,300,292
 Longwood,314,72,299,293
@@ -318,35 +318,35 @@ Jackson St.,316,238,344,162
 North Dakota,317,32,304,306
 Austin Peay,318,58,321,254
 Montana St.,319,102,309,301
-Fairleigh Dickinson,320,41,292,327
+F Dickinson,320,41,292,327
 Nicholls St.,321,80,338,234
 Jacksonville,322,208,274,336
 Coppin St.,323,2,240,345
-Arkansas Pine Bluff,324,205,333,263
+Ark Pine Bluff,324,205,333,263
 Presbyterian,325,278,301,332
 Binghamton,326,257,318,297
-Western Illinois,327,66,340,253
+W Illinois,327,66,340,253
 Utah Valley,328,290,335,270
-The Citadel,329,343,179,351
+Citadel,329,343,179,351
 Alabama A&M,330,236,306,335
 Liberty,331,93,341,280
-Abilene Christian,332,244,319,324
-Bethune Cookman,333,336,339,283
+Abilene Chr,332,244,319,324
+Bethune-Cookman,333,336,339,283
 Stetson,334,71,303,340
-South Carolina St.,335,174,343,272
+S Carolina St,335,174,343,272
 Chicago St.,336,266,345,248
 Morgan St.,337,146,322,326
-Kennesaw St.,338,143,323,331
+Kennesaw,338,143,323,331
 Savannah St.,339,160,348,211
-North Carolina A&T,340,292,328,329
-Central Connecticut,341,250,331,323
+NC A&T,340,292,328,329
+Central Conn,341,250,331,323
 Tennessee St.,342,222,347,238
-Texas Pan American,343,207,330,330
+UTRGV,343,207,330,330
 UMBC,344,157,346,294
 Maine,345,92,327,341
 Alcorn St.,346,62,324,349
-Mississippi Valley St.,347,5,337,346
-Central Arkansas,348,18,342,347
+MS Valley St,347,5,337,346
+Cent Arkansas,348,18,342,347
 San Jose St.,349,178,350,298
 Florida A&M,350,100,349,344
-Grambling St.,351,132,351,343
+Grambling,351,132,351,343
